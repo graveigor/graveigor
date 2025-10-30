@@ -8,7 +8,7 @@ Atualmente estou cursando Bacharelado em Engenharia de Software na FIAP, onde ve
 Nice to meet you, my name is Igor!
 I'm currently pursuing a Bachelor's degree in Software Engineering at FIAP, where I've been developing a solid foundation in technology, programming, and digital solutions. I believe in the power of innovation to transform businesses and positively impact the future.🚀
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](www.linkedin.com/in/igorgrave) [![email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:igorgraveteixeira@gmail.com) 
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/igorgrave) [![email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:igorgraveteixeira@gmail.com) 
 
 
 ---
