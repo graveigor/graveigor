@@ -115,8 +115,7 @@ I'm currently pursuing a Bachelor's degree in Software Engineering at FIAP, wher
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=graveigor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graveigor&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=graveigor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graveigor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" height="180" />
+</p>
