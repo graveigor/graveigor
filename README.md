@@ -34,7 +34,7 @@ Minha stack principal para o desenvolvimento de APIs, microsservi√ßos e persist√
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -50,4 +50,5 @@ Minha stack principal para o desenvolvimento de APIs, microsservi√ßos e persist√
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=graveigor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=graveigor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" height="180" />
 </p>
+
 
