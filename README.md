@@ -1,5 +1,5 @@
-# Olá, eu sou o Igor Grave Teixeira! 👋
-**Desenvolvedor Backend | Estudante de Engenharia de Software na FIAP**
+# Hi, I'm Igor Grave Teixeira! 👋
+**Backend Developer | Software Engineering Student at FIAP**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/igorgrave/" target="_blank">
@@ -12,23 +12,23 @@
 
 ---
 
-### 👨‍💻 Resumo Profissional
+### 👨‍💻 Professional Summary
 
-Sou um desenvolvedor focado em **Backend** com uma base acadêmica sólida em construção pela **FIAP**. Sou movido por desafios e tenho uma paixão genuína por tecnologia, arquitetura de software e por escrever códigos limpos e escaláveis. 
+I am a developer focused on **Backend** with a solid academic base being built by **FIAP**. I'm driven by challenges and have a genuine passion for technology, software architecture and writing clean, scalable code.
 
-Meu maior diferencial é a minha **vontade de aprender e de fazer acontecer**. Entro em cada projeto com o objetivo de dar o meu melhor, absorver conhecimento dos profissionais mais experientes e entregar soluções que realmente gerem valor para o negócio.
+My biggest differentiator is my **desire to learn and make things happen**. I enter each project with the aim of doing my best, absorbing knowledge from the most experienced professionals and delivering solutions that truly generate value for the business.
 
-### 🎯 O que eu trago para a equipe:
-- 🚀 **Proatividade e Dedicação:** Não espero os problemas chegarem, busco entendê-los e propor soluções.
-- 🧠 **Aprendizado Contínuo:** Facilidade e muita disposição para dominar novas linguagens, frameworks e boas práticas de mercado.
-- 🤝 **Trabalho em Equipe:** Acredito que o melhor código é feito de forma colaborativa e com boa comunicação.
-- 🛠️ **Foco em Qualidade:** Preocupação constante com a segurança, performance e manutenibilidade das aplicações.
+### 🎯 What I bring to the team:
+- 🚀 **Proactivity and Dedication:** I don't wait for problems to arise; I seek to understand them and propose solutions.
+- 🧠 **Continuous Learning:** Quick to learn and highly motivated to master new languages, frameworks, and industry best practices.
+- 🤝 **Teamwork:** I believe the best code is built collaboratively and with good communication.
+- 🛠️ **Focus on Quality:** Constant concern for application security, performance, and maintainability.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Technologies and Tools
 
-Minha stack principal para o desenvolvimento de APIs, microsserviços e persistência de dados:
+My main stack for developing APIs, microservices, and data persistence:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -44,7 +44,7 @@ Minha stack principal para o desenvolvimento de APIs, microsserviços e persist�
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 My Statistics
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=graveigor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180" />
