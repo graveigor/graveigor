@@ -1,122 +1,50 @@
-# 👩🏻‍💻 Igor Grave Teixeira
+# Olá, eu sou o Igor Grave Teixeira! 👋
+**Desenvolvedor Backend | Estudante de Engenharia de Software na FIAP**
 
-**`Desenvolvedor FullStack`**
-
-Prazer, me chamo Igor!
-Atualmente estou cursando Bacharelado em Engenharia de Software na FIAP, onde venho desenvolvendo uma base sólida em tecnologia, programação e soluções digitais. Acredito no poder da inovação para transformar negócios e impactar positivamente o futuro.🚀
-
-Nice to meet you, my name is Igor!
-I'm currently pursuing a Bachelor's degree in Software Engineering at FIAP, where I've been developing a solid foundation in technology, programming, and digital solutions. I believe in the power of innovation to transform businesses and positively impact the future.🚀
-
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/igorgrave) [![email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:igorgraveteixeira@gmail.com) 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/igorgrave/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:igorgraveteixeira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👨‍💻 Resumo Profissional
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+Sou um desenvolvedor focado em **Backend** com uma base acadêmica sólida em construção pela **FIAP**. Sou movido por desafios e tenho uma paixão genuína por tecnologia, arquitetura de software e por escrever códigos limpos e escaláveis. 
 
-<img 
-    align="left" 
-    alt="PrismaORM" 
-    title="PrismaORM"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
-/>
+Meu maior diferencial é a minha **vontade de aprender e de fazer acontecer**. Entro em cada projeto com o objetivo de dar o meu melhor, absorver conhecimento dos profissionais mais experientes e entregar soluções que realmente gerem valor para o negócio.
 
+### 🎯 O que eu trago para a equipe:
+- 🚀 **Proatividade e Dedicação:** Não espero os problemas chegarem, busco entendê-los e propor soluções.
+- 🧠 **Aprendizado Contínuo:** Facilidade e muita disposição para dominar novas linguagens, frameworks e boas práticas de mercado.
+- 🤝 **Trabalho em Equipe:** Acredito que o melhor código é feito de forma colaborativa e com boa comunicação.
+- 🛠️ **Foco em Qualidade:** Preocupação constante com a segurança, performance e manutenibilidade das aplicações.
 
+---
 
-<img 
-    align="left" 
-    alt="Auth.js" 
-    title="Auth.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/nextauthjs/next-auth/blob/main/docs/public/img/logo-sm.png?raw=true"
-/>
+### 💻 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="Auth.js" 
-    title="Auth.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000"
-/>
+Minha stack principal para o desenvolvimento de APIs, microsserviços e persistência de dados:
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 📊 Minhas Estatísticas
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=graveigor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180" />
-  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=graveigor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" height="180" />
 </p>
