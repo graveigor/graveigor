@@ -1,38 +1,41 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Igor%20Grave%20Teixeira&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=FullStack%20%7C%20Backend%20Developer&descAlignY=58&descColor=8b949e" width="100%"/>
-<p>
-  <a href="https://www.linkedin.com/in/igorgrave/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:igorgraveteixeira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/graveigor" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-<img src="https://komarev.com/ghpvc/?username=graveigor&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Igor%20Grave%20Teixeira&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=FullStack%20%7C%20Backend%20Developer&descAlignY=58&descColor=8b949e" width="100%"/>
+  <p>
+    <a href="https://www.linkedin.com/in/igorgrave/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:igorgraveteixeira@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/graveigor" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=graveigor&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-**👨‍💻 Professional Summary**
+---
+
+### 👨‍💻 Professional Summary
 
 I'm a FullStack Developer with a strong Backend focus, currently pursuing a degree in Software Engineering at FIAP. I'm passionate about technology, software architecture, and building clean, scalable systems that genuinely solve problems.
+
 My biggest differentiator is my drive to learn and make things happen. I approach every project with the goal of doing my best, absorbing knowledge from experienced professionals, and delivering solutions that truly generate value.
 
+### 🎯 What I Bring to the Team
 
-🎯 What I Bring to the Team
+- **🚀 Proactivity & Ownership:** I don't wait for problems — I seek to understand them and propose solutions before they escalate.
+- **🧠 Continuous Learning:** Fast learner, highly motivated to master new languages, frameworks, and industry best practices.
+- **🤝 Team Collaboration:** I believe the best code is built collaboratively, with clear communication and shared goals.
+- **🛠️ Focus on Quality:** Constant concern for security, performance, testability, and long-term maintainability.
+- **📐 Architecture Mindset:** Interest in DDD, Clean Architecture, SOLID principles, and well-structured systems.
 
-🚀 Proactivity & OwnershipI don't wait for problems — I seek to understand them and propose solutions before they escalate.
+---
 
-🧠 Continuous LearningFast learner, highly motivated to master new languages, frameworks, and industry best practices.
+### 💻 Tech Stack
 
-🤝 Team CollaborationI believe the best code is built collaboratively, with clear communication and shared goals.
-
-🛠️ Focus on QualityConstant concern for security, performance, testability, and long-term maintainability.📐 Architecture MindsetInterest in DDD, Clean Architecture, SOLID principles, and well-structured systems.
-
-**💻 Tech Stack**
 **🔷 Backend & Core Languages**
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,7 +44,7 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 </p>
 
 **🌐 Frontend**
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -50,14 +53,14 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 </p>
 
 **🗄️ Databases**
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 **⚙️ Frameworks & Libraries**
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -66,15 +69,15 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 </p>
 
 **🛠️ DevOps & Tools**
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
+---
 
 ### 🏗️ Architectural Principles I Value
 
@@ -86,21 +89,7 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 | ✔️ Design Patterns (Repository, etc.) | ✔️ JWT Auth & Security Best Practices |
 | ✔️ CI/CD Pipelines | ✔️ API Documentation (Swagger/OpenAPI) |
 
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=graveigor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" height="180" alt="GitHub Stats" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=graveigor&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9&border_radius=10" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=graveigor&theme=tokyonight&border_radius=10" height="180" alt="Streak Stats" />
-</p>
-
-<br></br>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=graveigor&theme=tokyo-night&border_radius=10&hide_border=false" width="100%" alt="Contribution Graph" />
-</div>
+---
 
 ### 🎓 Education & Certifications
 
@@ -119,6 +108,30 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 - **🧩 Advanced System Design patterns**
 - **🔐 Application security & DevSecOps**
 
+---
+
+### 📊 My GitHub Statistics
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=graveigor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=graveigor&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9&border_radius=10" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=graveigor&theme=tokyonight&border_radius=10" height="180" alt="Streak Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=graveigor&theme=tokyo-night&border_radius=10&hide_border=false" width="100%" alt="Contribution Graph" />
+</div>
+
+---
 
 ### 📬 Let's Connect
 
