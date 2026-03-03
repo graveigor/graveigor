@@ -54,7 +54,6 @@ My biggest differentiator is my drive to learn and make things happen. I approac
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 **⚙️ Frameworks & Libraries**
@@ -88,14 +87,15 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 | ✔️ CI/CD Pipelines | ✔️ API Documentation (Swagger/OpenAPI) |
 
 
-<br></br>
-<div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=graveigor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=graveigor&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9&border_radius=10" height="180" alt="Top Languages" />
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=graveigor&theme=tokyonight&border_radius=10" height="180" alt="Streak Stats" />
-</div>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=graveigor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" height="180" alt="GitHub Stats" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=graveigor&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9&border_radius=10" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=graveigor&theme=tokyonight&border_radius=10" height="180" alt="Streak Stats" />
+</p>
 
 <br></br>
 <div align="center">
