@@ -121,6 +121,7 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 
 <br />
 
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=graveigor&theme=tokyonight&border_radius=10" height="180" alt="Streak Stats" />
 </div>
