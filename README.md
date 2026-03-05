@@ -103,8 +103,7 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 
 ### 🌱 Currently Exploring
 
-- **☁️ Cloud platforms** — AWS / GCP
-- **📨 Event-driven architecture** — Apache Kafka
+- **☁️ Cloud platforms** — AWS
 - **🧩 Advanced System Design patterns**
 - **🔐 Application security & DevSecOps**
 
