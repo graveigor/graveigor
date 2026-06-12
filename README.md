@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Igor%20Grave%20Teixeira&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=FullStack%20%7C%20Backend%20Developer&descAlignY=58&descColor=8b949e" width="100%"/>
   <p>
+    <a href="https://igor-grave-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-FF3D00?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/igorgrave/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -29,6 +32,19 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 - **🤝 Team Collaboration:** I believe the best code is built collaboratively, with clear communication and shared goals.
 - **🛠️ Focus on Quality:** Constant concern for security, performance, testability, and long-term maintainability.
 - **📐 Architecture Mindset:** Interest in DDD, Clean Architecture, SOLID principles, and well-structured systems.
+
+---
+
+### 🚀 Featured Projects
+
+> Not mockups or tutorials — public code with live deployments, including websites delivered to **real clients**.
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Cotseguro** 🟢 | Institutional website for a cargo insurance brokerage — 4 pages, quote form, delivered and in use by a **real client** | HTML · Tailwind · JS | [Live](https://cotseguro-site.vercel.app) · [Code](https://github.com/graveigor/cotseguro-site) |
+| **Vet Thata** 🟢 | 6-page website for a veterinarian — services, product showcase and booking integrated with WhatsApp & Google Calendar, built for a **real client** | HTML · Tailwind · JS | [Live](https://vet-thabata-site.vercel.app) · [Code](https://github.com/graveigor/vet_thabata_site) |
+| **Java Banking System** | Console banking system — deposits, transfers and business-rule validation with clean OOP design | Java | [Code](https://github.com/graveigor/DesafioBancarioJava) |
+| **Portfolio** 🟢 | This bilingual (PT/EN) portfolio — pure HTML/CSS/JS in a single file, zero dependencies | HTML · CSS · JS | [Live](https://igor-grave-portfolio.vercel.app) · [Code](https://github.com/graveigor/IgorGrave-portfolio) |
 
 ---
 
