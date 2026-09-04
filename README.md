@@ -41,7 +41,7 @@ My biggest differentiator is my drive to learn and make things happen. I approac
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Cotseguro** 🟢 | Institutional website for a cargo insurance brokerage — 4 pages, quote form, delivered and in use by a **real client** | HTML · Tailwind · JS | [Live](https://cotseguro-site.vercel.app) · [Code](https://github.com/graveigor/cotseguro-site) |
+| **Cotseguro** 🟢 | Institutional website for a cargo insurance brokerage — 4 pages, quote form, delivered and in use by a **real client** | HTML · Tailwind · JS | [Live](https://cotseguro.com.br/) · [Code](https://github.com/graveigor/cotseguro-site) |
 | **Vet Thata** 🟢 | 6-page website for a veterinarian — services, product showcase and booking integrated with WhatsApp & Google Calendar, built for a **real client** | HTML · Tailwind · JS | [Live](https://vet-thabata-site.vercel.app) · [Code](https://github.com/graveigor/vet_thabata_site) |
 | **Java Banking System** | Console banking system — deposits, transfers and business-rule validation with clean OOP design | Java | [Code](https://github.com/graveigor/DesafioBancarioJava) |
 | **Portfolio** 🟢 | This bilingual (PT/EN) portfolio — pure HTML/CSS/JS in a single file, zero dependencies | HTML · CSS · JS | [Live](https://igor-grave-portfolio.vercel.app) · [Code](https://github.com/graveigor/IgorGrave-portfolio) |
